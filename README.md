@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Reservation
 
@@ -30,3 +31,6 @@ Then, you can go to the following address in your browser and view the website.
 - Authentication
 - Payment
 
+=======
+# Reservation-Website2
+>>>>>>> 55c0404ae7f887d67024879d714f0338de3e4015
